@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.new{
+    color: beige;
+    font-size: 24px;
+    font-weight: 700;
+}
+.red{
+    color: red;
+}
+.right{
+    background: green;
+}
+.false{
+    background: grey;
+}
+.itog{
+    font-size: 36px;
+    
+}
